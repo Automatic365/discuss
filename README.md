@@ -1,5 +1,7 @@
 # Discuss
 
+A forum discussion app 
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
