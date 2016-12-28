@@ -4,9 +4,10 @@
   color: red;
   text-transform: capitalize;
   position: absolute;
-  top: 35px;
+  top: 37px;
 }
 
 .form-group {
-  positio
+  position:relative;
+  bottom: 25px;
 }
