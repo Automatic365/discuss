@@ -1,6 +1,6 @@
 # Discuss
 
-A forum discussion app 
+A forum discussion application
 
 To start your Phoenix app:
 
