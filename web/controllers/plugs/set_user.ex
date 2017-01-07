@@ -9,7 +9,7 @@ defmodule Discuss.Plugs.SetUser do
   def init(_params) do
   end
 
-  def call(conn, _params) do
+  def call(conn, params) do
 
   end
 end
